@@ -1,1 +1,1 @@
-# learn_cmake
+CMakeLists.txt文件编写的学习及验证
